@@ -1,0 +1,17 @@
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\TestImageResize.dll
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\TestImageResize.pdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.csprojResolveAssemblyReference.cache
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.MainPage.xaml.g.cs
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.App.xaml.g.cs
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.dll
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.pdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\obj\Debug\TestImageResize.dll.mdb
+C:\Users\kkb\Documents\GitHub\xamarin-test\TestImageResize\TestImageResize\TestImageResize\bin\Debug\TestImageResize.dll.mdb
